@@ -93,7 +93,7 @@ The correlation between the production budget and domestic gross was purely done
 
  As I completed my cleaning steps of the dataframes, I utilised the visualizations below to see the correlation that exists between the variables in the datasets. 
 
-## **GENRES**
+### **GENRES**
 
 I selected the top 1,500 domestic films based on the number of votes and average rating they received. After ranking them by their ratings/votes (highest_rated_domestic), I was able to determine atleast the top 5 genres that performed the best at the box office from 2010 to 2018. 
 
@@ -104,7 +104,7 @@ For analyzing the top genres i prefered using bar plot as this gives the clear v
   
 ![Top ranking movie genres](https://github.com/Sdec30/Phase1_ProjectDAT7_MicrosoftMovieAnalysis/assets/140704907/b951e2b6-f832-46d3-8c9a-054e9780e00b)
 
-## **RUNTIME**
+### **RUNTIME**
 
 If Microsoft company is deciding to open a movie studio and are trying to gauge the ideal movie length, it might be wise to start with standard runtime (100 minutes) to play it safe. 
 
@@ -116,7 +116,7 @@ Using a bar plot to analyze the relationship between genre and runtime in minute
 
 ![Medium runtime for movie genres](https://github.com/Sdec30/Phase1_ProjectDAT7_MicrosoftMovieAnalysis/assets/140704907/cc4be6c6-e07a-4554-b1c8-ff804b5b8ebd)
 
-## **Correlation between domestic_gross and runtime in minutes profit?**
+### **Correlation between domestic_gross and runtime in minutes profit?**
 
 To check the correlation between domestic gross and runtime I prefered using scatter plot. Scatter plot is a best fit for representing correlation between two quantitative values.
 
@@ -138,7 +138,7 @@ This plot gave insight into what genres are currently more popular or preferred 
 
 ![Profit made by genres](https://github.com/Sdec30/Phase1_ProjectDAT7_MicrosoftMovieAnalysis/assets/140704907/ff0a3d67-f6df-4cee-bc2b-23b079b3135a)
 
-## **Correlation between Production budget and Domestic gross?**
+### **Correlation between Production budget and Domestic gross?**
 
 Does this mean the more money that is put into making a movie, the more money that movie will make? 
 
