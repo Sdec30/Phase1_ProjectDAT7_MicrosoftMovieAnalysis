@@ -167,28 +167,22 @@ The analysis offer a comprehensive view of movie preferebces by genre, average r
 
  # <font color='red' > Conclusions </font>
 
- In examining the movie industry from 2010 to 2018, it's evident that genre plays a pivotal role in a film's success with Drama and Comedy leading in audience preferences and revenure generation. While the average runtime of the film gravitates around 1 hour 40 minute, the length isn't a direct predictor of financial success. Instead the correlation between movie's production budget and its gross indicates that investment in production often results in better returns. 
+In examining the movie industry from 2010 to 2018, it's evident that genre plays a pivotal role in a film's success with Drama and Comedy leading in audience preferences and revenure generation. While the average runtime of the film gravitates around 1 hour 40 minute, the length isn't a direct predictor of financial success. Instead the correlation between movie's production budget and its gross indicates that investment in production often results in better returns.
 
-**Business Recomendation to Microsoft Company**
+Business Recommendation to Microsoft Company
 
-- **Diversify Portfolio**: While Drama and Comedy have shown strong results, it's important to maintain a diversified portfolio of movie genres to cater to varied audiences preferences and mitigate risks.
-- **Budget Allocation**: Allocate budget wisely, focusing on key areas like story quality, casting and post production. A higher budget often correlates with higher returns, but its crucial to ensure the budget is used effectively. 
-- **Market Research**: Conduct more in-depth market research to understand why genres such as romance, mystery, music arents generating revenue. This will help in making informed decisions for future projects. 
-- **Movie marketing**: With a movie runtime not being a direct predictor of success in terms of revenue, marketing strategies can play a pivotal role in the movie success. 
+Diversify Portfolio: While Drama and Comedy have shown strong results, it's important to maintain a diversified portfolio of movie genres to cater to varied audiences preferences and mitigate risks.
+Budget Allocation: Allocate budget wisely, focusing on key areas like story quality, casting and post production. A higher budget often correlates with higher returns, but its crucial to ensure the budget is used effectively.
+Market Research: Conduct more in-depth market research to understand why genres such as romance, mystery, music aren't generating revenue. This will help in making informed decisions for future projects.
+Movie marketing: With a movie runtime not being a direct predictor of success in terms of revenue, marketing strategies can play a pivotal role in the movie success.
+Some of the reason to consider for analysis might not fully solve the bussiness problems:
 
-Some of the reason to consider for analysis might not fully solve the bussiness problems: 
-
-- The data only span from 2010 to 2018, which might not capture the most recent trends.
-- Factors like quality of storyline, directorial talent, and cast performances which might not be quantified easily but it plays a hugh role in movie's success
-- The role of marketing, production, and release strategies is not captured in these datasets but can significantly impact a movie's success
-
+The data only span from 2010 to 2018, which might not capture the most recent trends.
+Factors like quality of storyline, directorial talent, and cast performances which might not be quantified easily but it plays a hugh role in movie's success
+The role of marketing, production, and release strategies is not captured in these datasets but can significantly impact a movie's success
 Future improvements for these datasets
 
-- Regularly updating data can give a comprehensive view of current trends. 
-- Incorporate additional data like critical reviews, audience feedback and competition between movies release in same year to give a holistic view of the factors influencing movie success. 
-
-
-In conclusion while the analysis provides valuable insights, the movie industry's complexity requires a multifaceted approach, considering both quantifiable metrics and qualitative factors to run a successful movie studio. 
-
-
+Regularly updating data can give a comprehensive view of current trends.
+Incorporate additional data like critical reviews, audience feedback and competition between movies release in same year to give a holistic view of the factors influencing movie success.
+In conclusion while the analysis provides valuable insights, the movie industry's complexity requires a multifaceted approach, considering both quantifiable metrics and qualitative factors to run a successful movie studio.
   
